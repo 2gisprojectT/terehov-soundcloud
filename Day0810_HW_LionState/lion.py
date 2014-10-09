@@ -7,6 +7,8 @@ __author__ = 'Alexey'
 
 class Lion:
     def __init__(self, start_state):
+        if not isinstance(start_state, State):
+            raise ValueError("Wrong start state!")
         self.current_state = start_state
         self.table = {
             (fed_state, input_antelope): (sleeping_action, hungry_state),
@@ -19,7 +21,7 @@ class Lion:
 
     def take_it(self, something):
         if (self.current_state, something) not in self.table:
-            print "Wrong input!"
+            raise ValueError("Wrong input value!")
         action, next_state = self.table[(self.current_state, something)]
         if action is not None:
             action.execute()
