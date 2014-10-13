@@ -9,7 +9,7 @@ import unittest
 
 
 class LionTest(unittest.TestCase):
-    def test_creating_of_lion(self):
+    def test_constructor_for_exceptions(self):
         self.assertRaises(ValueError, Lion, 1)
         self.assertRaises(ValueError, Lion, None)
         try:
@@ -21,28 +21,51 @@ class LionTest(unittest.TestCase):
         except ValueError:
             self.fail("Unexpectedly error on creating Lion with correct param")
 
-    def test_giving_correct_inputs(self):
-        correct_inputs = [input_antelope, input_hunter, input_tree]
+    def test_constructor_functionality(self):
+        hungry_lion = Lion(hungry_state)
+        fed_lion = Lion(fed_state)
+        msg = "Wrong constructor functionality"
+        self.assertEqual(hungry_lion.current_state, hungry_state, msg)
+        self.assertEqual(fed_lion.current_state, fed_state, msg)
+
+    def test_hungry_lion_for_exceptions(self):
         lion = Lion(hungry_state)
         try:
-            for i in range(0, 100):
-                index = random.randint(0, len(correct_inputs) - 1)
-                lion.take_it(correct_inputs[index])
+            # hungry state
+            lion.take_it(input_hunter)
+            lion.take_it(input_tree)
+            # fed state
+            lion.take_it(input_antelope)
+            lion.take_it(input_antelope)
+            lion.take_it(input_antelope)
+            lion.take_it(input_hunter)
+            lion.take_it(input_antelope)
+            lion.take_it(input_tree)
         except:
-            self.fail("Error on correct input")
-        lion = Lion(hungry_state)
+            self.fail("Error in hungry lion")
+
+    def test_fed_lion_for_exceptions(self):
+        lion = Lion(fed_state)
         try:
-            for i in range(0, 100):
-                index = random.randint(0, len(correct_inputs) - 1)
-                lion.take_it(correct_inputs[index])
+            # fed state
+            lion.take_it(input_hunter)
+            lion.take_it(input_antelope)
+            lion.take_it(input_tree)
+            lion.take_it(input_antelope)
+            lion.take_it(input_antelope)
+            # hungry state
+            lion.take_it(input_hunter)
+            lion.take_it(input_tree)
         except:
-            self.fail("Error on correct input")
+            self.fail("Error in fed lion")
 
     def test_giving_wrong_inputs(self):
         wrong_inputs = [None, "Devil", 666, object()]
-        lion = Lion(hungry_state)
+        hungry_lion = Lion(hungry_state)
+        fed_lion = Lion(fed_state)
         for i in wrong_inputs:
-            self.assertRaises(ValueError, lion.take_it, i)
+            self.assertRaises(ValueError, hungry_lion.take_it, i)
+            self.assertRaises(ValueError, fed_lion.take_it, i)
 
     def test_transitions(self):
         correct_transitions = {
