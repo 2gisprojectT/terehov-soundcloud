@@ -1,6 +1,6 @@
-from Day0810_HW_LionState.actions import sleeping_action, running_action, looking_action, eating_action
-from Day0810_HW_LionState.inputs import input_tree, input_antelope, input_hunter
-from Day0810_HW_LionState.states import State, hungry_state, fed_state
+from Day1008_HW_LionState.actions import sleeping_action, running_action, looking_action, eating_action
+from Day1008_HW_LionState.inputs import input_tree, input_antelope, input_hunter
+from Day1008_HW_LionState.states import State, hungry_state, fed_state
 
 __author__ = 'Alexey'
 

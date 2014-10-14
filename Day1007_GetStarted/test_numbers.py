@@ -1,4 +1,4 @@
-from Day0710_GetStarted.class_numbers import Numbers
+from Day1007_GetStarted.class_numbers import Numbers
 
 __author__ = 'Alexey'
 

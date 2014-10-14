@@ -1,7 +1,7 @@
 import random
-from Day0810_HW_LionState.inputs import input_hunter, input_antelope, input_tree
-from Day0810_HW_LionState.lion import Lion
-from Day0810_HW_LionState.states import fed_state, hungry_state
+from Day1008_HW_LionState.inputs import input_hunter, input_antelope, input_tree
+from Day1008_HW_LionState.lion import Lion
+from Day1008_HW_LionState.states import fed_state, hungry_state
 
 __author__ = 'Alexey'
 
