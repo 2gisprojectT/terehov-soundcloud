@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://soundcloud.com/" />
+<title>test_player_title</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">test_player_title</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/search?q=funk</td>
+	<td></td>
+</tr>
+<tr>
+	<td>waitForElementPresent</td>
+	<td>link=Tracks</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Tracks</td>
+	<td></td>
+</tr>
+<tr>
+	<td>waitForElementPresent</td>
+	<td>css=a.soundTitle__title.sc-link-dark&nbsp;&nbsp;&gt; span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>storeText</td>
+	<td>css=a.soundTitle__title.sc-link-dark&nbsp;&nbsp;&gt; span</td>
+	<td>song_name</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//div[@id='content']/div/div/div[2]/div/div[2]/ul/li/div/div/div/div/div[2]/div/button</td>
+	<td></td>
+</tr>
+<tr>
+	<td>waitForElementPresent</td>
+	<td>css=a.soundTitle__title.sc-link-dark&nbsp;&nbsp;&gt; span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>//a[contains(text(),'Tujamo - WHO (Original)')]</td>
+	<td>javascript{storedVars['song_name']}</td>
+</tr>
+</tbody></table>
+</body>
+</html>

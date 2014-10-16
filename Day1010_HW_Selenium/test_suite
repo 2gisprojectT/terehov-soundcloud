@@ -8,11 +8,10 @@
 <body>
 <table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
 <tr><td><b>Test Suite</b></td></tr>
-<tr><td><a href="not existing search request.html">test for wrong request</a></td></tr>
-<tr><td><a href="test playing title.html">test title when playing</a></td></tr>
-<tr><td><a href="test_suite">test people controls in search</a></td></tr>
-<tr><td><a href="test_suite">test player title</a></td></tr>
-<tr><td><a href="test_suite">test identical titles</a></td></tr>
+<tr><td><a href="test_for_wrong_request.html">test_for_wrong_request</a></td></tr>
+<tr><td><a href="test_people_controls_in_search.html">test_people_controls_in_search</a></td></tr>
+<tr><td><a href="test_player_title.html">test_player_title</a></td></tr>
+<tr><td><a href="test_title_when_playing.html">test_title_when_playing</a></td></tr>
 </tbody></table>
 </body>
 </html>
