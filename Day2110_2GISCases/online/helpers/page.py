@@ -20,7 +20,7 @@ class Page():
         from Day2110_2GISCases.online.helpers.search_result import SearchResult
 
         if self._search_result is None:
-            self._search_result = SearchResult(self.driver, self.driver.find_element_by_css_selector(SearchResult.selectors['self']))
+            self._search_result = SearchResult(self.driver)
         return self._search_result
 
     @property
