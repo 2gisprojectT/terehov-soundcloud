@@ -1,0 +1,4 @@
+language: python
+python:
+  - "2.7"
+script: "nosetests Day1008_HW_LionState/test_lion.py"
