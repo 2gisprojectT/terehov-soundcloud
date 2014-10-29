@@ -1,6 +1,7 @@
 import unittest
 from selenium import webdriver
 from Day2810_HW_SoundcloudPatterns.pages.main_page import MainPage
+from time import sleep
 
 
 class MyTestCase(unittest.TestCase):
@@ -13,17 +14,16 @@ class MyTestCase(unittest.TestCase):
     def tearDownClass(cls):
         cls._driver.close()
 
-    def test_search_categories(self):
+    def test_player_title(self):
         main_page = MainPage(self._driver)
         main_page.open()
         result_page = main_page.search_bar.find("something")
-        cats = result_page.categories
-        msg = "not all categories"
-        self.assertTrue(cats.is_everything_displayed(), msg)
-        self.assertTrue(cats.is_tracks_displayed(), msg)
-        self.assertTrue(cats.is_playlists_displayed(), msg)
-        self.assertTrue(cats.is_people_displayed(), msg)
-        self.assertTrue(cats.is_groups_displayed(), msg)
+        track = result_page.found_tracks[0]
+        track_title = track.title()
+        track.play()
+        sleep(1)
+        player_title = result_page.player.title()
+        self.assertEqual(track_title, player_title)
 
 if __name__ == '__main__':
     unittest.main()

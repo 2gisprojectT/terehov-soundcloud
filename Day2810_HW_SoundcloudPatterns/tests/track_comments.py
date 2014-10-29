@@ -1,4 +1,3 @@
-from time import sleep
 import unittest
 from selenium import webdriver
 from Day2810_HW_SoundcloudPatterns.pages.main_page import MainPage
@@ -13,7 +12,6 @@ class MyTestCase(unittest.TestCase):
     @classmethod
     def tearDownClass(cls):
         cls._driver.close()
-        pass
 
     def test_comments(self):
         main_page = MainPage(self._driver)

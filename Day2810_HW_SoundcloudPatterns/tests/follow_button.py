@@ -1,3 +1,4 @@
+from time import sleep
 import unittest
 from selenium import webdriver
 from Day2810_HW_SoundcloudPatterns.pages.main_page import MainPage
@@ -13,17 +14,16 @@ class MyTestCase(unittest.TestCase):
     def tearDownClass(cls):
         cls._driver.close()
 
-    def test_search_categories(self):
+    def test_follow_buttons(self):
         main_page = MainPage(self._driver)
         main_page.open()
-        result_page = main_page.search_bar.find("something")
-        cats = result_page.categories
-        msg = "not all categories"
-        self.assertTrue(cats.is_everything_displayed(), msg)
-        self.assertTrue(cats.is_tracks_displayed(), msg)
-        self.assertTrue(cats.is_playlists_displayed(), msg)
-        self.assertTrue(cats.is_people_displayed(), msg)
-        self.assertTrue(cats.is_groups_displayed(), msg)
+        result_page = main_page.search_bar.find("somebody")
+        result_page.categories.open("people")
+        sleep(1)
+        people = result_page.found_people
+        for human in people:
+            self.assertTrue(human.is_follow_button_displayed())
+
 
 if __name__ == '__main__':
     unittest.main()
