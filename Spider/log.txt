@@ -1,0 +1,175 @@
+===== 2014-11-14 15:48:56 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=ru.alsoft.develop.pogoda#?t=W251bGwsMSwyLDIxMiwicnUuYWxzb2Z0LmRldmVsb3AucG9nb2RhIl0.
+page depth: 2
+
+===== 2014-11-14 15:48:56 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=ru.alsoft.develop.goroscope#?t=W251bGwsMSwyLDIxMiwicnUuYWxzb2Z0LmRldmVsb3AuZ29yb3Njb3BlIl0.
+page depth: 2
+
+===== 2014-11-14 15:48:56 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb.nflapps
+page depth: 2
+
+===== 2014-11-14 15:48:56 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.arizona
+page depth: 2
+
+===== 2014-11-14 15:48:56 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.atlanta
+page depth: 2
+
+===== 2014-11-14 15:48:56 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.baltimore
+page depth: 2
+
+===== 2014-11-14 15:48:56 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.buffalo
+page depth: 2
+
+===== 2014-11-14 15:48:56 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.carolina
+page depth: 2
+
+===== 2014-11-14 15:48:56 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.chicago
+page depth: 2
+
+===== 2014-11-14 15:48:57 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.cincinnati
+page depth: 2
+
+===== 2014-11-14 15:48:57 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.cleveland
+page depth: 2
+
+===== 2014-11-14 15:48:57 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.dallas
+page depth: 2
+
+===== 2014-11-14 15:48:57 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.denver
+page depth: 2
+
+===== 2014-11-14 15:48:57 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.detroit
+page depth: 2
+
+===== 2014-11-14 15:48:57 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.greenbay
+page depth: 2
+
+===== 2014-11-14 15:48:57 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.houston
+page depth: 2
+
+===== 2014-11-14 15:48:57 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.indianapolis
+page depth: 2
+
+===== 2014-11-14 15:48:57 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.jacksonville
+page depth: 2
+
+===== 2014-11-14 15:48:57 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.kansascity
+page depth: 2
+
+===== 2014-11-14 15:48:58 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.miami
+page depth: 2
+
+===== 2014-11-14 15:48:58 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.minnesota
+page depth: 2
+
+===== 2014-11-14 15:48:58 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.newengland
+page depth: 2
+
+===== 2014-11-14 15:48:58 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.neworleans
+page depth: 2
+
+===== 2014-11-14 15:48:58 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.newyork
+page depth: 2
+
+===== 2014-11-14 15:48:58 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.newyorkj
+page depth: 2
+
+===== 2014-11-14 15:48:58 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.oakland
+page depth: 2
+
+===== 2014-11-14 15:48:58 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.philadelphia
+page depth: 2
+
+===== 2014-11-14 15:48:58 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.pittsburgh
+page depth: 2
+
+===== 2014-11-14 15:48:59 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.saintlouis
+page depth: 2
+
+===== 2014-11-14 15:48:59 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.sandiego
+page depth: 2
+
+===== 2014-11-14 15:48:59 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.sanfrancisco
+page depth: 2
+
+===== 2014-11-14 15:48:59 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.seattle
+page depth: 2
+
+===== 2014-11-14 15:48:59 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.tampabay
+page depth: 2
+
+===== 2014-11-14 15:48:59 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.tennessee
+page depth: 2
+
+===== 2014-11-14 15:48:59 Error code 404 =====
+page url: http://alsoftspb.com/index.php?option=com_content&view=article&id=103&Itemid=63
+link url: https://play.google.com/store/apps/details?id=com.alsoftspb_nfl.washington
+page depth: 2
+

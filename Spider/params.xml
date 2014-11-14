@@ -1,0 +1,11 @@
+<parameters>
+	<pages>
+		<page>http://alsoftspb.com/</page>
+        <!--<page>http://kotlinlang.org/</page>-->
+	</pages>
+	<domains>
+		<domain>alsoftspb.com</domain>
+        <!--<domain>kotlinlang.org</domain>-->
+	</domains>
+	<depth>3</depth>
+</parameters>ы
